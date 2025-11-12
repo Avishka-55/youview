@@ -29,16 +29,23 @@ A fully functional **YouTube Clone** built with **React + Vite** that lets users
 
 Create a `.env` file in the root of your project and add:
 
-```bash
+```
 VITE_YOUTUBE_API_KEY=your_youtube_api_key_here
+```
 # Clone this repo
-git clone https://github.com/<your-username>/youview.git
+```
+git clone https://github.com/Avishka-55/youview.git
+```
 
 # Move to project folder
+```
 cd youview
-
+```
 # Install dependencies
+```
 npm install
-
+```
 # Run locally
+```
 npm run dev
+```
