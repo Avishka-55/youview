@@ -26,7 +26,9 @@ A fully functional **YouTube Clone** built with **React + Vite** that lets users
 ---
 
 ## 🧠 Environment Setup
-
+🪄 You can obtain a free API key from Google Cloud Console
+.
+Just enable YouTube Data API v3, create an API key under “Credentials,” and paste it here.
 Create a `.env` file in the root of your project and add:
 
 ```
