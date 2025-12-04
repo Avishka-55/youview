@@ -2,6 +2,10 @@
 
 A fully functional **YouTube Clone** built with **React + Vite** that lets users search, watch, and explore videos through the **YouTube Data API v3**.
 
+## Live Demo
+🚀 Check out the YouTube Clone I deployed on Netlify: https://youview-private.netlify.app/
+
+
 ---
 
 ## 🚀 Features
